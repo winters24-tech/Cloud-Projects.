@@ -5,3 +5,4 @@
 
 ## Cloud Projects:
 ☁️ 1 > [Architect Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Architect%20Project)
+☁️ 2 > [Azure Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Azure%20Project)
