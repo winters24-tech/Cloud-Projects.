@@ -4,5 +4,6 @@
 
 
 ## Cloud Projects:
- ☁️ 1 > [Architect Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Architect%20Project) <br>
- ☁️ 2 > [Azure Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Azure%20Project)
+☁️ 1 > [Architect Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Architect%20Project) <br>
+☁️ 2 > [Azure Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Azure%20Project) <br>
+☁️ 3 > [AWS Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/AWS%20Project)
