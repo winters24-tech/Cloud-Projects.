@@ -5,7 +5,7 @@
 
 
 ## Cloud Projects:
-### I created these projects as a visual showcase of my understanding within the Cloud space. I've only been able to utilize AWS and Azure, I'm more versed in AWS however I have a comfortable feel with Azure in addition.
+I created these projects as a visual showcase of my understanding within the Cloud space. I've only been able to utilize AWS and Azure, I'm more versed in AWS however I have a comfortable feel with Azure in addition.
 
 ☁️ 1 > [AWS S3 Hosting](https://github.com/winters24-tech/Cloud-Projects./blob/main/S3%20Website%20Static%20Host/Readme.md)<br>
 ☁️ 2 > [Architect Project](https://github.com/winters24-tech/Cloud-Projects./tree/main/Architect%20Project) <br>
